@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="about">ABOUT ALC</string>
+    <string name="profile">MY PROFILE</string>
+    <string name="labelname">ALC 4 Phase 1</string>
+    <string name="labelactivityB">About ALC</string>
+    <string name="welcome">Welcome To ALC 4.0</string>
+    <string name="name">Edmond Natweta</string>
+    <string name="track">Track:</string>
+    <string name="track1">Android</string>
+    <string name="country">Country:</string>
+    <string name="country1">Uganda</string>
+    <string name="email">Email:</string>
+    <string name="email1">Araali256@gmail.com</string>
+    <string name="phone">Phone number:</string>
+    <string name="phone1">256704407547</string>
+    <string name="slack">Slack Username:</string>
+    <string name="slack1">\@NEdmond</string>
+</resources>
